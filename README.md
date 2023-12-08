@@ -1,6 +1,6 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" />
 <h1 align="left">Hello World👋 </h1>
-<h3 align="left">Hello! I'm Nirmal Kumar, an Android Developer with a passion for crafting elegant and functional mobile applications. With a solid foundation in Java, I specialize in turning innovative ideas into user-friendly experiences. My goal is to create applications that not only meet but exceed user expectations. Let's build something great together!📱💻</h3>
+<h3 align="left">Hello! I'm Nirmal Kumar, an Android Developer with a passion for crafting elegant and functional mobile applications. With a solid foundation in Java, I specialize in turning innovative ideas into user-friendly experiences. My goal is to create applications that not only meet but exceed user expectations. Let's build something great together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithpiece&label=Profile%20views&color=0e75b6&style=flat" alt="codewithpiece" /> </p>
 
