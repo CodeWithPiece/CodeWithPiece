@@ -18,5 +18,5 @@
 </p>
 <h3 align="left">Tech Stack</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,express,java,androidstudio,flutter,mysql,mongodb,firebase,mui,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,express,java,androidstudio,flutter,mysql,mongodb,firebase,mui,vscode,github,git,discord,postman" />
 </div>
