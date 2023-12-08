@@ -4,7 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithpiece&label=Profile%20views&color=0e75b6&style=flat" alt="codewithpiece" /> </p>
 
-- 🔭 I’m currently working on [Online Shopping App](https://github.com/codewithpiece)
+<ul>
+    <li>
+        <p>- 🔭 I’m currently working on <a href="https://github.com/codewithpiece" />Online Shopping App</p>
+</li>
+</ul>
+
+- 🔭 I’m currently working on <a href="https://github.com/codewithpiece" /> 
 - 🌱 I’m currently learning **MERN Stack**
 - 👨‍💻 All of my projects are available at [https://github.com/codewithpiece](https://github.com/codewithpiece)
 - 💬 Ask me about **Android, Node Js and Java**
