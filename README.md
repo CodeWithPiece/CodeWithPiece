@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/CodeWithPiece/Online-Shopping" /> Online Shopping App
 - 🌱 I’m currently learning **MERN Stack**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/CodeWithPiece" />CodeWithPiece
+- 👨‍💻 All of my projects are available at <a href="https://github.com/CodeWithPiece?tab=repositories" />CodeWithPiece
 - 💬 Ask me about **Android, Node Js and Java**
 - 📫 How to reach me **ignirmal12@gmail.com**
 
