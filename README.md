@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithpiece&label=Profile%20views&color=0e75b6&style=flat" alt="codewithpiece" /> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/CodeWithPiece/Online-Shopping" /> Online Shopping App
+- 🔭 I’m currently working on <a href="https://github.com/CodeWithPiece/" /> React Projects
 - 🌱 I’m currently learning **MERN Stack**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/CodeWithPiece?tab=repositories" />CodeWithPiece
-- 💬 Ask me about **Android, Node Js and Java**
+- 💬 Ask me about **Android, React Js, Node Js, Java, Spring Boot**
 - 📫 How to reach me **ignirmal12@gmail.com**
 
 <h3 align="left">Connect Me:</h3>
