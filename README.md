@@ -1,8 +1,6 @@
 ![android_gif](https://github.com/CodeWithPiece/CodeWithPiece/assets/145927850/d762e402-39bf-44d9-ac0a-44354ea30d60)
 <h1 align="left">Hello World👋 </h1>
-<h3 align="left">I'm Nirmal Kumar, I am Software Developer with a passion for crafting elegant and functional mobile, web applications. With a solid foundation in Java, Spring Boot as a backed and React JS, Android Studio as frontend. I specialize in turning innovative ideas into user-friendly experiences. My goal is to create robust applications that not only meet but exceed user expectations. Let's build something great together!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithpiece&label=Profile%20views&color=0e75b6&style=flat" alt="codewithpiece" /> </p>
+<h4 align="left">I'm Nirmal Kumar, I am Software Developer with a passion for crafting elegant and functional mobile, web applications. With a solid foundation in Java, Spring Boot, Node Js as a backed and React JS, Android Studio as frontend. I specialize in turning innovative ideas into user-friendly experiences. My goal is to create robust applications that not only meet but exceed user expectations. Let's build something great together!</h4>
 
 - 🔭 I’m currently working on <a href="https://github.com/CodeWithPiece/React-Js" /> React Projects
 - 🌱 I’m currently learning **MERN Stack**
